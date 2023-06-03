@@ -1,15 +1,16 @@
-.App {
-  text-align: center;
-}
-
 .App-header {
-  background-color: #222;
+  background-color: rgb(64, 17, 17);
   padding: 1em;
   color: white;
   margin-bottom: 1em;
+  text-align: center;
+  font-size: larger;
+  font-family: cursive;
 }
 
-.App-title {
-  font-size: 1.5em;
+.App {
+  background-color: rgb(167, 125, 70);
 }
+
+
 

@@ -1,0 +1,77 @@
+.description-image {
+    border: 4px outset rgb(64, 17, 17);
+    border-radius: 10px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    background-image: url('../../../public/images/woodimage.jpeg');
+    }
+
+.image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    border-style:outset;
+    border-width: 1px;
+}
+
+.full-post {
+    text-align: center;
+    margin: 25px;
+}
+
+.description {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border-style:outset;
+    border-width: 1px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.likes-description {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border-style:solid;
+    border-color: rgb(64, 17, 17);
+    border-width: 3px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+button {
+    font-size: 1.2em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: blue;
+    height: 40px;
+    width: 70px;
+    margin: 10px;
+    border-style: outset;
+    border-radius: 10px;
+    border-color: blue;
+    border-width: 3px;
+    background-color: rgb(146, 204, 255);
+}
+
+button:hover {
+    font-size: 1.2em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    height: 40px;
+    width: 70px;
+    margin: 10px;
+    border-style: inset;
+    border-radius: 10px;
+    border-color: white;
+    border-width: 3px;
+    background-color: rgb(0, 167, 0);
+}
+
+.likes-description:hover {
+    background-color: black;
+    color: white;
+    border-color: white;
+}
