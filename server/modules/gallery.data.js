@@ -1,10 +1,10 @@
 const galleryItems = [
-    { id: 1, path: 'images/DSC09917.jpg', description: 'Photo of the sexiest man alive.', likes: 69 },
-    { id: 2, path: 'images/goat_small.jpg', description: 'Photo of a goat taken at Glacier National Park.', likes: 0 },
-    { id: 3, path: 'images/goat_small.jpg', description: 'Photo of a goat taken at Glacier National Park.', likes: 0 },
-    { id: 4, path: 'images/goat_small.jpg', description: 'Photo of a goat taken at Glacier National Park.', likes: 0 },
-    { id: 5, path: 'images/goat_small.jpg', description: 'Photo of a goat taken at Glacier National Park.', likes: 0 },
-    { id: 6, path: 'images/goat_small.jpg', description: 'Photo of a goat taken at Glacier National Park.', likes: 0 }
+    { id: 1, path: 'images/DSC09917.jpg', description: 'I love my son! #proudmom', likes: 46 },
+    { id: 2, path: 'images/IMG_3173.jpeg', description: 'Look, Mom! I caught a T-shirt at the Twins Game!', likes: 32 },
+    { id: 3, path: 'images/IMG_2697.JPG', description: 'Spa night!', likes: 3 },
+    { id: 4, path: 'images/IMG_1789.PNG', description: 'This dog loved me more than her actual owners', likes: 99 },
+    { id: 5, path: 'images/IMG_3251.PNG', description: '#nofilter', likes: 192 },
+    { id: 6, path: 'images/IMG_1793.JPG', description: 'My pets are so good it puts them to sleep', likes: 320 }
 ];
 
 module.exports = galleryItems;
